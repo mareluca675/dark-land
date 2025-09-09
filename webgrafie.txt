@@ -1,5 +1,0 @@
-https://www.geeksforgeeks.org/pygame-tutorial/?ref=lbp
-https://freesound.org/people/carlmartin/sounds/158953/
-https://freesound.org/people/Vihaleipa/sounds/320264/
-https://freesound.org/people/uplaod/sounds/636262/
-https://stackoverflow.com/questions/78080477/error-metadata-generation-failed-encountered-error-while-generating-package-met
